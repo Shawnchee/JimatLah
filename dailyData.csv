@@ -1,0 +1,25 @@
+username,device1,device2,device3,device4,device5,device6,timestamp,power_usage1,power_usage2,power_usage3,power_usage4,power_usage5,power_usage6
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),0,0,3200,1063,0,0,3
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),1,0,3015,1668,0,0,2
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),2,0,3289,1967,0,0,5
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),3,0,3181,1443,0,0,4
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),4,0,3078,1532,0,0,3
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),5,0,3048,1743,0,0,2
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),6,0,3069,1366,0,0,4
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),7,827,549,1308,0,0,2
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),8,0,0,1084,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),9,0,0,1423,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),10,0,0,1027,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),11,0,0,1150,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),12,0,0,1076,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),13,0,0,1892,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),14,0,0,1148,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),15,0,0,1655,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),16,0,0,1688,0,0,0
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),17,0,0,1450,0,0,5
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),18,914,0,1576,6300,0,10
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),19,0,0,1284,0,0,9
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),20,0,0,4180,0,0,9
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),21,0,3188,2975,0,169,8
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),22,0,3486,1577,0,197,8
+1001,Water heater,Air-conditioner,kitchen appliance,Laundry Appliances,Home Office Equipment,Others (Low-Energy Consumption Devices),23,0,3168,1964,0,0,8
