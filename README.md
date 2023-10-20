@@ -40,10 +40,26 @@ JimatLah is a web application powered by __StreamLit__ with many functions to ta
 - __Reward System__
     - By saving money and energy in their household, they can get points in return.
     - With points, users can use it to redeem tokens, vouchers or event contribute in planting trees or helping world-problems   
-    ![Alt text](image-5.png)        
+    ![Alt text](image-5.png)     
 
 
+#### Note: Only functional coded parts are article/tips and the dashboard page, the rest are implemented **ONLY** using Figma.  
 
+
+## How to run the application?
+- Install Streamlit and Required Dependencies
+    - Type in console:
+    ```
+    pip install streamlit
+    ```
+- Download required libraries
+- Run the app
+    ``` 
+    streamlit run (app_name)
+    *in this case it's Home.py
+    ```
+
+- Or use VSCode from Anaconda to run it easier
 
 
 
